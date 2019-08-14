@@ -1,0 +1,7 @@
+{
+    "eslint.packageManager": "yarn",
+    "npm.packageManager": "yarn",
+    "eslint.enable": true,
+
+    "eslint.alwaysShowStatus": true
+}
