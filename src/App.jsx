@@ -24,7 +24,7 @@ function App({ pathname, search, hash }) {
                     <td>{hash}</td>
                 </tr>
             </table>
-            <Link to="/">Home</Link> | <Link to="/About">About</Link> |{" "}
+            <Link to="/">Home</Link> | <Link to="/about">About</Link> |{" "}
             <Link to="/qwerty">Qwerty</Link>
             <Switch>
                 <Route exact path="/" render={() => <div>Home</div>} />
